@@ -1,13 +1,9 @@
 numpy
-matplotlib.pyplot
 matplotlib
 librosa
 IPython
 pretty_midi
-scipy.io.wavfile
 tqdm
-scipy.fftpack
+scipy
 soundfile
-scipy.signal
-librosa.display
-sklearn
+scikit-learn
