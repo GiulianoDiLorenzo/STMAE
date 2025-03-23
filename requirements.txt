@@ -7,3 +7,4 @@ tqdm
 scipy
 soundfile
 scikit-learn
+pandas
