@@ -1,0 +1,13 @@
+Index:
+
+-Introduction to the problem.
+-Tipes of aproximation
+-Data extracting (general)
+-Data extracting especificities for each case.
+-Model for stem, first tries
+-Model for mix, first try
+-Eliminating classes
+-Proposing the idea of hybrid
+-Looking for a smaller model common for both
+-Hybrid model
+-Results
