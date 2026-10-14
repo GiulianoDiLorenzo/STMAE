@@ -308,14 +308,6 @@ For every unordered pair of instruments in a track, a counter in an N × N matri
   <em>Filtered instrument co-occurrence matrix across MedleyDB tracks.</em>
 </p>
 
-## Notes and limitations
-
-These notes are not part of the original report.
-
-- **Split strategy.** Train, validation and test sets are drawn with a random (stratified for stems) segment-level split, and the 3 s segments overlap by 50 %. Segments from the same song can therefore appear in different sets, and the reported scores are likely optimistic estimates of performance on unseen songs. A split by track would give a more reliable generalization estimate.
-- **Imbalance.** Classes remain unbalanced after regrouping. For multilabel mixes, binary accuracy is dominated by the many negative labels, so F1 and recall are the more informative figures.
-- **Data access.** MedleyDB is not redistributed here and must be obtained separately.
-
 ## References
 
 - V. N. Kumar. *Predominant Musical Instrument Classification based on Spectral Features.* GitHub repository: <https://github.com/vntkumar8/musical-instrument-classification>
