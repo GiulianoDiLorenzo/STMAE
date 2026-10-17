@@ -1,5 +1,8 @@
 # Musical Instrument Recognition on MedleyDB
 
+> [!IMPORTANT]
+> This is a work in progress!
+
 Convolutional neural networks for recognizing musical instruments in **isolated stems** (single-label) and in **polyphonic mixes** (multilabel), using mel-spectrogram and constant-Q (CQT) features.
 
 Final project for the course *Selected Topics in Music and Acoustic Engineering* (Politecnico di Milano).
